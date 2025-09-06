@@ -26,3 +26,13 @@ I enjoy working with modern frameworks, writing clean and maintainable code, and
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Biaslan-git&show_icons=true&theme=radical)
+
+---
+
+## 🌍 About Me (in Russian)
+
+Привет! 👋  
+Я Python-разработчик, занимаюсь созданием веб-приложений и сервисов.  
+Интересуюсь open source, стараюсь писать чистый и поддерживаемый код, а также развиваюсь в современных веб-технологиях (Django, FastAPI, Next.js).  
+
+Буду рад сотрудничеству и новым проектам 🚀  
